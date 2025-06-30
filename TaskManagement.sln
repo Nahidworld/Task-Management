@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagement", "TaskManagement\TaskManagement.csproj", "{2505AAB7-B387-444F-A40A-40F9D633934F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{79038D70-1D7B-444C-A32F-5EA6A914DE71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5DF5B453-6039-4FB4-BF24-E869A7A995D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2505AAB7-B387-444F-A40A-40F9D633934F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2505AAB7-B387-444F-A40A-40F9D633934F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2505AAB7-B387-444F-A40A-40F9D633934F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2505AAB7-B387-444F-A40A-40F9D633934F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79038D70-1D7B-444C-A32F-5EA6A914DE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79038D70-1D7B-444C-A32F-5EA6A914DE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79038D70-1D7B-444C-A32F-5EA6A914DE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79038D70-1D7B-444C-A32F-5EA6A914DE71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF5B453-6039-4FB4-BF24-E869A7A995D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF5B453-6039-4FB4-BF24-E869A7A995D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF5B453-6039-4FB4-BF24-E869A7A995D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF5B453-6039-4FB4-BF24-E869A7A995D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99676601-FF3D-4D03-8147-587E359FDDB7}
+	EndGlobalSection
+EndGlobal

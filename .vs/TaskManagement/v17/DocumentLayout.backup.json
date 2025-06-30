@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\adv.net\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF5B453-6039-4FB4-BF24-E869A7A995D7}|DAL\\DAL.csproj|c:\\adv.net\\taskmanagement\\dal\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF5B453-6039-4FB4-BF24-E869A7A995D7}|DAL\\DAL.csproj|solutionrelative:dal\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF5B453-6039-4FB4-BF24-E869A7A995D7}|DAL\\DAL.csproj|c:\\adv.net\\taskmanagement\\dal\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF5B453-6039-4FB4-BF24-E869A7A995D7}|DAL\\DAL.csproj|solutionrelative:dal\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\adv.net\\TaskManagement\\DAL\\Models\\TaskContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\TaskContext.cs",
+              "ToolTip": "C:\\adv.net\\TaskManagement\\DAL\\Models\\TaskContext.cs",
+              "RelativeToolTip": "DAL\\Models\\TaskContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:12:37.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\adv.net\\TaskManagement\\DAL\\Models\\Attachment.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Attachment.cs",
+              "ToolTip": "C:\\adv.net\\TaskManagement\\DAL\\Models\\Attachment.cs",
+              "RelativeToolTip": "DAL\\Models\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:09:56.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

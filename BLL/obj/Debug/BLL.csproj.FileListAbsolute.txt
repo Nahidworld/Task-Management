@@ -1,0 +1,14 @@
+C:\adv.net\TaskManagement\BLL\bin\Debug\BLL.dll
+C:\adv.net\TaskManagement\BLL\bin\Debug\BLL.pdb
+C:\adv.net\TaskManagement\BLL\bin\Debug\AutoMapper.dll
+C:\adv.net\TaskManagement\BLL\bin\Debug\DAL.dll
+C:\adv.net\TaskManagement\BLL\bin\Debug\EntityFramework.dll
+C:\adv.net\TaskManagement\BLL\bin\Debug\DAL.pdb
+C:\adv.net\TaskManagement\BLL\bin\Debug\DAL.dll.config
+C:\adv.net\TaskManagement\BLL\bin\Debug\AutoMapper.xml
+C:\adv.net\TaskManagement\BLL\bin\Debug\EntityFramework.xml
+C:\adv.net\TaskManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\adv.net\TaskManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\adv.net\TaskManagement\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\adv.net\TaskManagement\BLL\obj\Debug\BLL.dll
+C:\adv.net\TaskManagement\BLL\obj\Debug\BLL.pdb
